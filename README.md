@@ -59,7 +59,9 @@ Created media content and technical documentation for PC building, upgrading, an
 
 ## 🌐 Connect With Me
 📧 Email: maguatejohnlorence@gmail.com 
+
 💼 LinkedIn: https://www.linkedin.com/in/john-lorence-maguate-a7a787311
+
 🌍 Portfolio: On going
 
 ---

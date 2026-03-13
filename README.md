@@ -51,7 +51,7 @@ Created media content and technical documentation for PC building, upgrading, an
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&theme=tokyonight)
 
 ---
 

@@ -3,7 +3,7 @@
 💻 **Bachelor of Science in Information Technology**  
 🎓 Cavite State University – General Trias, Cavite  
 
-I’m a passionate developer who enjoys building systems that solve real-world problems. I have experience in **web development, system development, and software problem-solving**, and I’m continuously improving my skills in both **frontend and backend technologies**.
+I’m a passionate developer who enjoys building systems that solve real-world problems. I have experience in **web development, game development, system development, and software problem-solving**, and I’m continuously improving my skills in both **frontend and backend technologies**.
 
 ---
 
@@ -24,6 +24,7 @@ I’m a passionate developer who enjoys building systems that solve real-world p
 - JavaScript
 - PHP
 - Python
+- C#
 
 **Frameworks & Tools**
 - React
@@ -35,6 +36,7 @@ I’m a passionate developer who enjoys building systems that solve real-world p
 **Database**
 - MySQL
 - Firebase Database
+- JSON Database
 
 ---
 
@@ -56,9 +58,9 @@ Created media content and technical documentation for PC building, upgrading, an
 ---
 
 ## 🌐 Connect With Me
-📧 Email: your-email@example.com  
-💼 LinkedIn: your-linkedin  
-🌍 Portfolio: your-portfolio
+📧 Email: maguatejohnlorence@gmail.com 
+💼 LinkedIn: https://www.linkedin.com/in/john-lorence-maguate-a7a787311
+🌍 Portfolio: On going
 
 ---
 

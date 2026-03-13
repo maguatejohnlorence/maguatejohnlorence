@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm John Lorence Maguate
 
-<!--
-**maguatejohnlorence/maguatejohnlorence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Bachelor of Science in Information Technology**  
+🎓 Cavite State University – General Trias, Cavite  
 
-Here are some ideas to get you started:
+I’m a passionate developer who enjoys building systems that solve real-world problems. I have experience in **web development, system development, and software problem-solving**, and I’m continuously improving my skills in both **frontend and backend technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔭 Currently working on **POS and Inventory Management Systems**
+- 💡 Interested in **Web Development, System Development, and Automation**
+- 🛠️ Experience in **building, repairing, and upgrading computer systems**
+- 📚 Always learning new technologies and improving my coding skills
+- 🎯 Goal: Become a **professional software developer and system architect**
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Python
+
+**Frameworks & Tools**
+- React
+- Node.js
+- Tailwind CSS
+- Firebase
+- Git & GitHub
+
+**Database**
+- MySQL
+- Firebase Database
+
+---
+
+## 📌 Projects
+🔹 **POS & Inventory System**  
+A system for managing product inventory, sales, and monitoring transactions.
+
+🔹 **Customer & Staff Management System**  
+Database-based system for managing users, staff, and customers.
+
+🔹 **PC Hardware Services Content**  
+Created media content and technical documentation for PC building, upgrading, and troubleshooting.
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+📧 Email: your-email@example.com  
+💼 LinkedIn: your-linkedin  
+🌍 Portfolio: your-portfolio
+
+---
+
+⭐ *“Technology is best when it brings people and ideas together.”*

@@ -50,6 +50,9 @@ Database-based system for managing users, staff, and customers.
 🔹 **PC Hardware Services Content**  
 Created media content and technical documentation for PC building, upgrading, and troubleshooting.
 
+🔹 **Educational Game for Pre-School**  
+Include Tracing letter, Color picker, Puzzle word, animals recognition and Counting objects.
+
 ---
 
 ## 📈 GitHub Stats

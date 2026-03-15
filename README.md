@@ -13,10 +13,10 @@ Currently building POS & Inventory Systems and improving my Frontend and Backend
   **POS & Inventory Management System**  
   https://github.com/JohnnyCodeJourney/DWE_Project
 
-- 👯 I’m looking to collaborate on  
+- 👯 Done Project 
   **Customer & Staff Management System**
 
-- 🤝 I’m looking for help with  
+- 🤝 Done Project 
   **Educational Game for Pre-School (Unity)**  
   https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer
 

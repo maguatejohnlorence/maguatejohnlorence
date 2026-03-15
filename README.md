@@ -47,7 +47,7 @@ Currently building **POS & Inventory systems** and improving my **frontend and b
 ---
 
 ## 🌐 Connect With Me
-📧 maguatejohnlorence@gmail.com  
+📧 Email: maguatejohnlorence@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/john-lorence-maguate-a7a787311  
 🌍 Portfolio: Coming Soon
 

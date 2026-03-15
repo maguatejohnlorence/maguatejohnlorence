@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Lorence Maguate</h1>
 <h3 align="center">💻 BS Information Technology 🎓 Cavite State University – General Trias, Cavite Passionate about web development, system development, and game development. Currently building POS & Inventory systems and improving my frontend and backend development skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maguatejohnlorence&label=Profile%20views&color=0e75b6&style=flat" alt="maguatejohnlorence" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maguatejohnlorence" alt="maguatejohnlorence" /></a> </p>
 

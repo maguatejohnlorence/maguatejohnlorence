@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Lorence Maguate</h1>
 
-<h3 align="center">
-💻 BS Information Technology <br>
-🎓 Cavite State University – General Trias, Cavite <br>
-Passionate about Web Development, System Development, and Game Development. <br>
-Currently building POS & Inventory Systems and improving my Frontend and Backend development skills.
-</h3>
-
 ---
 
 - 🔭 I’m currently working on  

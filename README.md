@@ -7,10 +7,10 @@
   🔗 https://github.com/JohnnyCodeJourney/DWE_Project  
 
 🤝 Completed Projects  
-  • **Coffee Shop POS**  
-     🔗 https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer  
-  • **Educational Game for Pre-School (Unity)**  
-    🔗 https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer  
+    • **Coffee Shop POS**  
+       🔗 https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer  
+    • **Educational Game for Pre-School (Unity)**  
+       🔗 https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer  
 
 👨‍💻 All of my projects are available at  
   🔗 https://github.com/maguatejohnlorence  

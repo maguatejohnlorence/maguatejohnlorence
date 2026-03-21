@@ -6,12 +6,9 @@
   **POS & Inventory Management System**  
   https://github.com/JohnnyCodeJourney/DWE_Project
 
-- 👯 Done Project 
-  **Customer & Staff Management System**
-
 - 🤝 Done Project 
-  **Educational Game for Pre-School (Unity)**  
-  https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer
+  **Customer & Staff Management System**
+  **Educational Game for Pre-School (Unity)** https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer
 
 - 👨‍💻 All of my projects are available at  
   https://github.com/maguatejohnlorence

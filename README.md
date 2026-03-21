@@ -64,13 +64,13 @@
 
 <p align="center">
 
-<table align="center" border="transparent">
+<table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&locale=en" />
+    <td align="center">
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&locale=en" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maguatejohnlorence" />
+    <td align="center">
+      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=maguatejohnlorence" />
     </td>
   </tr>
 </table>

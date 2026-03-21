@@ -5,20 +5,25 @@
 ---
 
 🔭 I’m currently working on  
-  **POS & Inventory Management System**  
-  🔗 https://github.com/JohnnyCodeJourney/DWE_Project  
+**POS & Inventory Management System**  
+🔗 https://github.com/JohnnyCodeJourney/DWE_Project  
+
 
 🤝 Completed Projects  
-    • **Coffee Shop POS**  
-       🔗 https://github.com/maguatejohnlorence/Coffee-Shop-POS 
-    • **Educational Game for Pre-School (Unity)**  
-       🔗 https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer  
+
+• **Coffee Shop POS**  
+🔗 https://github.com/maguatejohnlorence/Coffee-Shop-POS  
+
+• **Educational Game for Pre-School (Unity)**  
+🔗 https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer  
+
 
 👨‍💻 All of my projects are available at  
-  🔗 https://github.com/maguatejohnlorence  
+🔗 https://github.com/maguatejohnlorence  
+
 
 📫 How to reach me  
-  **maguatejohnlorence@gmail.com**
+**maguatejohnlorence@gmail.com**
 
 ---
 

@@ -7,7 +7,7 @@
   🔗 https://github.com/JohnnyCodeJourney/DWE_Project  
 
 🤝 Completed Projects  
-  • **Customer & Staff Management System**  
+  • **Coffee Shop POS**  
      🔗 https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer  
   • **Educational Game for Pre-School (Unity)**  
     🔗 https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer  

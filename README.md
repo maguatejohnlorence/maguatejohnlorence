@@ -2,19 +2,20 @@
 
 ---
 
-- 🔭 I’m currently working on  
+🔭 I’m currently working on  
   **POS & Inventory Management System**  
   🔗 https://github.com/JohnnyCodeJourney/DWE_Project  
 
-- 🤝 Completed Projects  
+🤝 Completed Projects  
   • **Customer & Staff Management System**  
+     🔗 https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer  
   • **Educational Game for Pre-School (Unity)**  
     🔗 https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer  
 
-- 👨‍💻 All of my projects are available at  
+👨‍💻 All of my projects are available at  
   🔗 https://github.com/maguatejohnlorence  
 
-- 📫 How to reach me  
+📫 How to reach me  
   **maguatejohnlorence@gmail.com**
 
 ---

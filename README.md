@@ -66,9 +66,15 @@
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&locale=en" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&locale=en" 
+    width="400"
+  />
 
-  <img src=" width=400 https://github-readme-streak-stats.herokuapp.com/?user=maguatejohnlorence" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=maguatejohnlorence" 
+    width="400"
+  />
 
 </div> 
 </p>

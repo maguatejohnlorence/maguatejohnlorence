@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+John+Lorence+Maguate;Software+Developer;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=34&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+John+Lorence+Maguate;💻+Web+Developer;🎮+Game+Developer;⚙️+System+Developer" />
 </h1>
-
 ---
 
 🔭 I’m currently working on  

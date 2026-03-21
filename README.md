@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Lorence Maguate</h1>
 
 ---
-
 - 🔭 I’m currently working on  
   **POS & Inventory Management System**  
   https://github.com/JohnnyCodeJourney/DWE_Project
@@ -15,7 +14,6 @@
 
 - 📫 How to reach me  
   **maguatejohnlorence@gmail.com**
-
 ---
 
 <h3 align="left">Connect with me:</h3>

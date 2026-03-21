@@ -64,7 +64,7 @@
 
 <p align="center">
 
-<table align="center">
+<table align="center" border="transparent">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&locale=en" />

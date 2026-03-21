@@ -64,17 +64,14 @@
 
 <p align="center">
 
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&locale=en" 
-    width="400"
-  />
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=maguatejohnlorence" 
-    width="400"
-  />
-
-</div> 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&locale=en" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maguatejohnlorence" />
+    </td>
+  </tr>
+</table>
 </p>

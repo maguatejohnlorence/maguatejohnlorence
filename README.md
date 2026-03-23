@@ -8,13 +8,8 @@
 **POS & Inventory Management System**  
 🔗 https://github.com/JohnnyCodeJourney/DWE_Project  
 
-
-
-
-
-
-🤝 Completed Projects  
-
+<br>
+🤝 Completed Projects  <br>
 • **Coffee Shop POS**  
 🔗 https://github.com/maguatejohnlorence/Coffee-Shop-POS  
 

@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bubblegum+Sans&size=32&pause=1000&color=87CEFA&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+John+Lorence+Maguate;" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Main_Project-DWE_POS-87CEFA?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/maguatejohnlorence?style=for-the-badge&color=87CEFA" />
-</p>
-
 ---
 
 ### 💫 About Me

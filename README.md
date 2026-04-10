@@ -17,17 +17,17 @@ I am a passionate **Full-Stack Developer** and **IT Professional** dedicated to 
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
-        <br>Frontend / JS
+        <br><b>Frontend / JS</b>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=php,py,cs,mysql,firebase" />
-        <br>Backend / DB
+        <br><b>Backend / DB</b>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=git,vite,unity,tailwind,postman" />
-        <br>Tools & Frameworks
+        <br><b>Tools & Frameworks</b>
     </td>
   </tr>
 </table>
@@ -47,14 +47,16 @@ I am a passionate **Full-Stack Developer** and **IT Professional** dedicated to 
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&theme=react&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maguatejohnlorence&theme=react&hide_border=true" />
+  <img width="480" src="https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&theme=react&hide_border=true" />
+</p>
+<p align="center">
+  <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=maguatejohnlorence&theme=react&hide_border=true" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
+<p align="center">
 <a href="mailto:maguatejohnlorence@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/john-lorence-maguate-a7a787311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/srxndpty"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
